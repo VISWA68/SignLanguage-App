@@ -14,7 +14,8 @@ Helping Hands is an innovative Flutter application with a Flask backend designed
 ## 🏗️ Tech Stack  
 - **Frontend:** Flutter  
 - **Backend:** Flask  
-- **Machine Learning:** Sign language recognition and translation models  
+- **Machine Learning:** Sign language recognition and translation models
+- **Database:** Firebase
 
 ## 🚀 Installation & Setup  
 
